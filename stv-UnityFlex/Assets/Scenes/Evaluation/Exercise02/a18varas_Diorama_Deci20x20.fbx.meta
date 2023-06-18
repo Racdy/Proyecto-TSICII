@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 668feb7ec27e56647bdf75121b297610
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Face
+    100004: FountainRim
+    100006: L_Pillar_Back
+    100008: L_Pillar_Base
+    100010: L_Pillar_Front
+    100012: R_Pillar_Back
+    100014: R_Pillar_Base
+    100016: R_Pillar_Front
+    100018: Wall
+    100020: ZBrushDefault
+    400000: //RootNode
+    400002: Face
+    400004: FountainRim
+    400006: L_Pillar_Back
+    400008: L_Pillar_Base
+    400010: L_Pillar_Front
+    400012: R_Pillar_Back
+    400014: R_Pillar_Base
+    400016: R_Pillar_Front
+    400018: Wall
+    400020: ZBrushDefault
+    2000000: ZBrushDefault
+    2100000: Face
+    2100002: L_Pillar_Base
+    2100004: Wall
+    2100006: FountainRim
+    2100008: R_Pillar_Base
+    2100010: L_Pillar_Back
+    2100012: R_Pillar_Back
+    2100014: R_Pillar_Front
+    2100016: L_Pillar_Front
+    2300000: Face
+    2300002: FountainRim
+    2300004: L_Pillar_Back
+    2300006: L_Pillar_Base
+    2300008: L_Pillar_Front
+    2300010: R_Pillar_Back
+    2300012: R_Pillar_Base
+    2300014: R_Pillar_Front
+    2300016: Wall
+    3300000: Face
+    3300002: FountainRim
+    3300004: L_Pillar_Back
+    3300006: L_Pillar_Base
+    3300008: L_Pillar_Front
+    3300010: R_Pillar_Back
+    3300012: R_Pillar_Base
+    3300014: R_Pillar_Front
+    3300016: Wall
+    4300000: Face
+    4300002: L_Pillar_Base
+    4300004: Wall
+    4300006: FountainRim
+    4300008: R_Pillar_Base
+    4300010: L_Pillar_Back
+    4300012: R_Pillar_Back
+    4300014: R_Pillar_Front
+    4300016: L_Pillar_Front
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 0a496b95dd82eb1479745abfa886f342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FountainRim
+    second: {fileID: 2100000, guid: 0ab5b9d4d3f45684f8b131f73a405759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Pillar_Back
+    second: {fileID: 2100000, guid: 94a80d5cbf4229b45913bb5eb91fa21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Pillar_Base
+    second: {fileID: 2100000, guid: 151054bbcaee0694da4679b547771d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Pillar_Front
+    second: {fileID: 2100000, guid: f76ae1db46330ae4faa96ee7d178bf47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Pillar_Back
+    second: {fileID: 2100000, guid: 1ce92c9ebbdce8a40a231f5754609702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Pillar_Base
+    second: {fileID: 2100000, guid: c2c79ee81a0871f4e98ca30f61169cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Pillar_Front
+    second: {fileID: 2100000, guid: 8bf40fb8e8f132f4f8c67aae160b4622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: e46bf3a28e3e3cb44b4931e107c50a3f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
